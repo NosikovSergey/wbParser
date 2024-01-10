@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "p4cXj43dNAETXR/oF9c6dddkkfapvDFBdZEC1DbRvRdLVWtI4j2I5C7RUPsLQmLDsnu5yBJPsMTkw4g1VGedlQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lenovo\\RiderProjects\\ClassLibrary5\\Nosikov.Wildberries.Adapter\\Nosikov.Wildberries.Adapter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
